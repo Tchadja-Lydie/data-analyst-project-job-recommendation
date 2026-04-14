@@ -45,6 +45,7 @@ Comme toutes les questions n’ont pas le même format, les colonnes ont été *
 - Suppression ciblée de colonnes très peu renseignées / non pertinentes pour l’objectif (ex. `Q30`, `Q13`, `Q32`)
 - Filtrage des modalités non exploitables sur des variables clés (`Other`, `Currently not employed`, `I prefer not to answer`, etc.)
 
+![Diagnostic des données manquantes](top%2010%20des%20colonnes%20avec%20le%20plus%20de%20donn%C3%A9es%20manquantes.png)
 
  
  **3.3 Gestion des valeurs manquantes**
