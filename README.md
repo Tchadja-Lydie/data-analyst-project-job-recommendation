@@ -77,7 +77,7 @@ Ce travail rend les variables plus interprétables et plus robustes pour l’ana
  **4) Analyse exploratoire (EDA) — résultats clés**
 L’EDA vise à identifier les tendances fortes et les relations entre compétences/outils et métiers.
 
-Exemples d’insights (à adapter selon tes graphiques) :
+Exemples d’insights :
 - **Python** est le langage dominant quel que soit le métier ; **SQL** ressort fortement pour certains profils orientés bases de données.
 - Les outils de visualisation (ex. Matplotlib) sont davantage associés aux profils techniques (Data Scientist / ML / Research).
 - Le dataset présente des **déséquilibres** (répartition géographique, classes métiers) à considérer dans l’interprétation.
