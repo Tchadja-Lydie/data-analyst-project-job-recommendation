@@ -30,7 +30,10 @@ Le cœur du projet est un travail de **nettoyage structuré** pour rendre un que
 
  Résultat : passage de **355 variables** à **109 variables** exploitables, et filtrage qualité sur la cible.
 
-
+<div align="center">
+  <img src="carte de chaleur.png" width="800">
+  <p><i>Distribution des diplômes par genre</i></p>
+</div>
 **3.2 Démarche de nettoyage (par type de question)**
 Comme toutes les questions n’ont pas le même format, les colonnes ont été **catégorisées** selon le type de question afin d’appliquer des règles cohérentes :
 - **Réponse unique**
